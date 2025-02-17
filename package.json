@@ -1,0 +1,15 @@
+{
+  "name": "home_work31",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx @tailwindcss/cli -i ./styles.css -o ./result.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.6",
+    "tailwindcss": "^4.0.6"
+  }
+}
